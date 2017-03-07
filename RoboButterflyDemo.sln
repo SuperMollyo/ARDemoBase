@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboButterflyDemo", "Assembly-CSharp.csproj", "{F3CE58F6-AD4A-03A5-D936-4954890219F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboButterflyDemo", "Assembly-CSharp-Editor.csproj", "{E18EE52F-478F-0F4F-3206-B5E640382BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CE58F6-AD4A-03A5-D936-4954890219F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CE58F6-AD4A-03A5-D936-4954890219F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CE58F6-AD4A-03A5-D936-4954890219F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CE58F6-AD4A-03A5-D936-4954890219F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E18EE52F-478F-0F4F-3206-B5E640382BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18EE52F-478F-0F4F-3206-B5E640382BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18EE52F-478F-0F4F-3206-B5E640382BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18EE52F-478F-0F4F-3206-B5E640382BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
